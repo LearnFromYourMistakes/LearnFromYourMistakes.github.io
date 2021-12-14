@@ -1,7 +1,27 @@
+
 .assignment img {
     width: 500px;
     margin:10px;
     border:4px solid black;
     display: block;
     margin: auto;
+}
+
+.assignment {
+    width: 30%;
+    padding:10px;
+    margin:auto;
+    padding:20px ;
+    background:lightgray;
+    border-radius: 10px;
+}
+
+h1 {
+    color:white;
+    text-align:center;
+
+}
+h2 {
+    text-align: center;
+    font-size: large;
 }
