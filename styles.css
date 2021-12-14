@@ -29,8 +29,10 @@ body {
 }
 
 h1 {
-    color:darkblue;
+    color:gray;
     text-align:center;
+    font-size: 50px;
+
 }
 h2 {
     text-align: center;
